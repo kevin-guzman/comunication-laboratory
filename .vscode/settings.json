@@ -1,0 +1,8 @@
+{
+  "go.toolsEnvVars": {
+    "GOOS": "linux",
+    "GOARCH": "arm",
+    "GOROOT": "/home/sizz/.cache/tinygo/goroot-50390eaca9e93f981c91237344b3527e23ad8f84acfdb27879b77b65c813de45",
+    "GOFLAGS": "-tags=xtensa,baremetal,linux,arm,esp32,esp,tinygo,math_big_pure_go,gc.conservative,scheduler.tasks,serial.uart"
+  }
+}
